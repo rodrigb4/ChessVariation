@@ -6,6 +6,6 @@ This program consists of a class ChessVar, where a given instance is a playable 
 
 ## Game Play
 
-Includes all pieces except pawns and queens. Each player starts at the same end of the board, and the first player whose king reach the other end (row 8) wins. 
+Includes all pieces except pawns and queens. Each player starts at the same end of the board, and the first player whose king reaches the other end (row 8) wins. 
 
 Note: A valid move cannot put either king in check.
